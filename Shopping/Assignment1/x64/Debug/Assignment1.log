@@ -1,0 +1,8 @@
+﻿  Assignment1.cpp
+C:\Users\lcv2332537\Downloads\Shopping\Assignment1\Assignment1.cpp(75,32): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\lcv2332537\Downloads\Shopping\Assignment1\Assignment1.cpp(79,32): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\lcv2332537\Downloads\Shopping\Assignment1\Assignment1.cpp(83,32): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\lcv2332537\Downloads\Shopping\Assignment1\Assignment1.cpp(151,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lcv2332537\Downloads\Shopping\Assignment1\Assignment1.cpp(244,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lcv2332537\Downloads\Shopping\Assignment1\Assignment1.cpp(64,6): warning C4101: 'id': unreferenced local variable
+  Assignment1.vcxproj -> C:\Users\lcv2332537\Downloads\Shopping\x64\Debug\Assignment1.exe
