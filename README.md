@@ -22,7 +22,7 @@ This is a simple console-based shopping system written in C++ which simulates an
 
 1. **Clone the repository**:
    ```
-   git clone https://github.com/yourusername/shopping-system.git
+   git clone https://github.com/marklourenco/shopping-system.git
    ```
 
 2. **Compile the Code**:
